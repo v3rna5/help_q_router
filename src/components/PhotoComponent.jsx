@@ -4,6 +4,7 @@ import reallyAdorablePuppy from '../assets/images/cutepuppies.jpg'
 function PhotoComponent(){
   return (
     <div>
+
       <img src={reallyAdorablePuppy}/>
     </div>
   );
